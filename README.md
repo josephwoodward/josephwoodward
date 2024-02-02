@@ -1,4 +1,8 @@
-### Hi there 👋 I'm Joe
+### Hello there! 👋 I'm Joe
+
+I'm a software engineer that loves all things backend/network and distributed systems related. I currently work at [Form3](https://www.form3.tech/) helping build and support their highly reliable Payment Procesing platform. Prior to that I worked as a backend engineer at @justeattakeaway.
+
+- 🔭 I currently work at 
 
 <!--
 **Demonthos/demonthos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
