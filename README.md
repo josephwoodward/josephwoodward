@@ -1,6 +1,6 @@
 ### Hello there! 👋 I'm Joe
 
-I'm a software engineer that loves all things backend/network and distributed systems related. I currently work at [Form3](https://www.form3.tech/) helping build and support their highly reliable Payment Procesing platform. Prior to that I worked as a backend engineer at @justeattakeaway.
+I'm a Software Engineer living in the United Kingdom that loves all things backend/network and distributed systems related. I currently work as a Lead Engineer at [Form3](https://www.form3.tech/) helping build and support their highly reliable Payment Procesing platform. Prior to that I worked as a backend engineer at Just Eat.
 
 - 🔭 I currently work at 
 
