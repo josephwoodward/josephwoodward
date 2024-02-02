@@ -1,6 +1,8 @@
 ### Hello there! 👋 I'm Joe
 
-I'm a Software Engineer living in the United Kingdom that loves all things backend/network and distributed systems related. I currently work as a Lead Engineer at [Form3](https://www.form3.tech/) helping build and support their highly reliable Payment Procesing platform. Prior to that I worked as a Senior Software Engineer at [Just Eat Takeaway](https://www.justeattakeaway.com/).
+I'm a Software Engineer living in the United Kingdom that loves all things backend/network and distributed systems related.
+
+I currently work as a Lead Engineer at [Form3](https://www.form3.tech/) helping build and support their highly reliable Payment Procesing platform. Prior to that I worked as a Senior Software Engineer at [Just Eat Takeaway](https://www.justeattakeaway.com/).
 
 I love writing Go day-to-day but enjoy experimenting with other languages too and especially enjoy contributing to open-source software.
 
