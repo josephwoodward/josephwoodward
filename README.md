@@ -8,7 +8,7 @@ I love writing Go day-to-day but enjoy experimenting with other languages too an
 
 #### How to reach me?
 
-You can find me actively discussing software engineering related topics at [@_josephwoodward](https://twitter.com/_josephwoodward) on Twitter, occasionally bloging over at [josephwoodward.co.uk](https://josephwoodward.co.uk) and on [LinkedIn](https://www.linkedin.com/in/joseph-woodward2/).
+You can find me actively discussing software engineering related topics at [@_josephwoodward](https://twitter.com/_josephwoodward) on Twitter, occasionally blogging over at [josephwoodward.co.uk](https://josephwoodward.co.uk) and on [LinkedIn](https://www.linkedin.com/in/joseph-woodward2/).
 
 <!--
 **Demonthos/demonthos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
