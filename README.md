@@ -2,7 +2,7 @@
 
 I'm a Software Engineer living in the United Kingdom that loves all things backend/network and distributed systems related.
 
-I currently work remotely as a Lead Engineer at [Form3](https://www.form3.tech/) helping build and support their highly reliable multicloud Payment Processing Platform. Prior to that I worked as a Senior Software Engineer at [Just Eat Takeaway](https://www.justeattakeaway.com/).
+I currently work remotely as Software Engineer at [Redpanda Data](https://www.redpanda.com/). Prior to that I was a Lead Engineer at [Form3](https://www.form3.tech/) and a Senior Software Engineer at [Just Eat Takeaway](https://www.justeattakeaway.com/).
 
 I love writing Go day-to-day but enjoy experimenting with other languages too and I especially enjoy contributing to open-source software.
 
